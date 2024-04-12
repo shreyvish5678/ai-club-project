@@ -1,0 +1,2 @@
+Lofi Music Compilation for training data: https://www.youtube.com/watch?v=n61ULEU7CO0
+Kaggle Dataset with many files: https://www.kaggle.com/datasets/onetwobucklemyshoe/ai-club-project-files
