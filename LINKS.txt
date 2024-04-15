@@ -2,3 +2,5 @@ Lofi Music Compilation for training data: https://www.youtube.com/watch?v=n61ULE
 Kaggle Dataset with many files: https://www.kaggle.com/datasets/onetwobucklemyshoe/ai-club-project-files
 Kaggle Notebook of Implementation: https://www.kaggle.com/code/onetwobucklemyshoe/main-book
 Research Paper for WGANs: https://arxiv.org/abs/1701.07875
+My Blog Post related to Project: git clone https://github.com/shreyvish5678/blog
+Github for Blog: https://github.com/shreyvish5678/blog
